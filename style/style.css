@@ -75,11 +75,11 @@ h2 {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
-    padding: 0 100px;
+    padding: 0 125px;
 }
 
 .facility {
-    width: 350px;
+    width: 333px;
     margin: 50px;
     border: 1px solid #596B86;
     padding: 35px;
@@ -92,7 +92,7 @@ h2 {
 }
 
 .facility img {
-    width: 60px;
+    width: 50px;
 }
 
 .facility p {
@@ -104,6 +104,6 @@ h2 {
 
 .facility span {
     font-family: sans-serif;
-    font-size: 13px;
+    font-size: 12px;
     color: grey;
 }
